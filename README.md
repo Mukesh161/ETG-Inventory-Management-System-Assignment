@@ -2,10 +2,10 @@
 This project is submission of assignment in Skill India Internship Program of ETG. Assignment is about INVENTORY MANAGEMENT SYSTEM.
 
 #Project includes 4 files:
-Adding Product In Inventory.ipynb
-Record.json
-Buying Product and Generating Sales File.ipynb
-Sales.json
+1.Adding Product In Inventory.ipynb
+2.Record.json
+3.Buying Product and Generating Sales File.ipynb
+4.Sales.json
 
 
 #1.Adding Product In Inventory.ipynb
@@ -24,7 +24,7 @@ JSON module is used to create this file.
 This file works as inventory data i.e what are the products available, what is the price of a product, how much quantity is available and other details.
 
 
-#Buying Product and Generating Sales File.ipynb
+#3.Buying Product and Generating Sales File.ipynb
 This file helps you buy products from the inventory.
 Concepts used are File Handling, JSON, Loops, If Else and Data structures.
 Details of product available in inventory are obtained from 'Record.json' file and this file is loaded into the program with the help of JSON module.
@@ -36,6 +36,6 @@ While this has finished, Sales file is created with the help of JSON module, whi
 At the end, changes to the 'Record.json' file are made as per the quantity that would be left after the final bill is generated.
 
 
-#Sales.json
+#4.Sales.json
 This file has the record of buying products.
 Every time a product has been bought, the details are stored with a unique transaction id.
