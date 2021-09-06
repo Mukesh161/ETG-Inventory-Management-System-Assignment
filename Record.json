@@ -1,0 +1,247 @@
+{
+    "1101": {
+        "Name": "Parle-G",
+        "Weight (grams)": 55,
+        "Price": 10,
+        "Quantity": 100,
+        "Manufacturer": "Parle Products Pvt. Ltd"
+    },
+    "1102": {
+        "Name": "Marie Gold",
+        "Weight (grams)": 200,
+        "Price": 30,
+        "Quantity": 100,
+        "Manufacturer": "Britannia Industries Ltd"
+    },
+    "1103": {
+        "Name": "Vita Marie Gold",
+        "Weight (grams)": 240,
+        "Price": 40,
+        "Quantity": 80,
+        "Manufacturer": "Britannia Industries Ltd"
+    },
+    "1104": {
+        "Name": "Hide&Seek ChocoChips",
+        "Weight (grams)": 115,
+        "Price": 35,
+        "Quantity": 70,
+        "Manufacturer": "Parle Products Pvt. Ltd"
+    },
+    "1105": {
+        "Name": "Dark Fantasy",
+        "Weight (grams)": 80,
+        "Price": 30,
+        "Quantity": 45,
+        "Manufacturer": "Sunfeast ITC"
+    },
+    "1106": {
+        "Name": "Oreo",
+        "Weight (grams)": 110,
+        "Price": 40,
+        "Quantity": 80,
+        "Manufacturer": "Cadbury Pvt. Ltd"
+    },
+    "1107": {
+        "Name": "Fab",
+        "Weight (grams)": 60,
+        "Price": 25,
+        "Quantity": 50,
+        "Manufacturer": "Parle Products Pvt. Ltd"
+    },
+    "1108": {
+        "Name": "Jim-Jam",
+        "Weight (grams)": 70,
+        "Price": 20,
+        "Quantity": 75,
+        "Manufacturer": "Britannia Industries Ltd"
+    },
+    "1109": {
+        "Name": "Treat",
+        "Weight (grams)": 45,
+        "Price": 10,
+        "Quantity": 5,
+        "Manufacturer": "Britannia Industries Ltd"
+    },
+    "1110": {
+        "Name": "Bounce Cream",
+        "Weight (grams)": 45,
+        "Price": 5,
+        "Quantity": 50,
+        "Manufacturer": "Sunfeast ITC"
+    },
+    "1111": {
+        "Name": "Bourbon",
+        "Weight (grams)": 120,
+        "Price": 30,
+        "Quantity": 110,
+        "Manufacturer": "Britannia Industries Ltd"
+    },
+    "1112": {
+        "Name": "Nutrichoice Digestive",
+        "Weight (grams)": 75,
+        "Price": 20,
+        "Quantity": 80,
+        "Manufacturer": "Britannia Industries Ltd"
+    },
+    "1113": {
+        "Name": "Unibic",
+        "Weight (grams)": 60,
+        "Price": 25,
+        "Quantity": 100,
+        "Manufacturer": "UNIBIC Pvt. Ltd"
+    },
+    "1114": {
+        "Name": "Krackjack",
+        "Weight (grams)": 60,
+        "Price": 10,
+        "Quantity": 200,
+        "Manufacturer": "Parle Products Pvt. Ltd"
+    },
+    "1115": {
+        "Name": "20-20 Cookies",
+        "Weight (grams)": 30,
+        "Price": 5,
+        "Quantity": 110,
+        "Manufacturer": "Parle Products Pvt. Ltd"
+    },
+    "1116": {
+        "Name": "Magix",
+        "Weight (grams)": 45,
+        "Price": 5,
+        "Quantity": 30,
+        "Manufacturer": "Parle Products Pvt. Ltd"
+    },
+    "1117": {
+        "Name": "Milk Shakti",
+        "Weight (grams)": 55,
+        "Price": 10,
+        "Quantity": 5,
+        "Manufacturer": "Parle Products Pvt. Ltd"
+    },
+    "1118": {
+        "Name": "MilkBikis",
+        "Weight (grams)": 55,
+        "Price": 10,
+        "Quantity": 50,
+        "Manufacturer": "Britannia Industries Ltd"
+    },
+    "1119": {
+        "Name": "Tiger",
+        "Weight (grams)": 55,
+        "Price": 10,
+        "Quantity": 105,
+        "Manufacturer": "Britannia Industries Ltd"
+    },
+    "1120": {
+        "Name": "GoodDay",
+        "Weight (grams)": 135,
+        "Price": 35,
+        "Quantity": 225,
+        "Manufacturer": "Britannia Industries Ltd"
+    },
+    "1121": {
+        "Name": "Little Hearts",
+        "Weight (grams)": 35,
+        "Price": 15,
+        "Quantity": 100,
+        "Manufacturer": "Britannia Industries Ltd"
+    },
+    "1122": {
+        "Name": "50-50 Sweet n Salty",
+        "Weight (grams)": 65,
+        "Price": 10,
+        "Quantity": 100,
+        "Manufacturer": "Britannia Industries Ltd"
+    },
+    "1123": {
+        "Name": "Nice-Time",
+        "Weight (grams)": 90,
+        "Price": 20,
+        "Quantity": 10,
+        "Manufacturer": "Britannia Industries Ltd"
+    },
+    "1124": {
+        "Name": "Snacky",
+        "Weight (grams)": 50,
+        "Price": 10,
+        "Quantity": 75,
+        "Manufacturer": "Sunfeast ITC"
+    },
+    "1125": {
+        "Name": "Cheese Cracker",
+        "Weight (grams)": 55,
+        "Price": 15,
+        "Quantity": 30,
+        "Manufacturer": "Priya Gold Biscuits"
+    },
+    "1126": {
+        "Name": "Hide&Seek Milano",
+        "Weight (grams)": 70,
+        "Price": 40,
+        "Quantity": 60,
+        "Manufacturer": "Parle Products Pvt. Ltd"
+    },
+    "1127": {
+        "Name": "Happy Happy",
+        "Weight (grams)": 125,
+        "Price": 25,
+        "Quantity": 100,
+        "Manufacturer": "Parle Products Pvt. Ltd"
+    },
+    "1128": {
+        "Name": "Coconut Cookies",
+        "Weight (grams)": 65,
+        "Price": 10,
+        "Quantity": 100,
+        "Manufacturer": "Parle Products Pvt. Ltd"
+    },
+    "1129": {
+        "Name": "Top",
+        "Weight (grams)": 55,
+        "Price": 10,
+        "Quantity": 30,
+        "Manufacturer": "Parle Products Pvt. Ltd"
+    },
+    "1130": {
+        "Name": "Monaco",
+        "Weight (grams)": 40,
+        "Price": 10,
+        "Quantity": 100,
+        "Manufacturer": "Parle Products Pvt. Ltd"
+    },
+    "1131": {
+        "Name": "Googly",
+        "Weight (grams)": 160,
+        "Price": 95,
+        "Quantity": 90,
+        "Manufacturer": "Biskfarm Pvt. Ltd"
+    },
+    "1132": {
+        "Name": "CNC",
+        "Weight (grams)": 60,
+        "Price": 10,
+        "Quantity": 100,
+        "Manufacturer": "Priya Gold Biscuits"
+    },
+    "1133": {
+        "Name": "Classic cream",
+        "Weight (grams)": 40,
+        "Price": 5,
+        "Quantity": 5,
+        "Manufacturer": "Priya Gold Biscuits"
+    },
+    "1134": {
+        "Name": "Countlines",
+        "Weight (grams)": "95",
+        "Price": 20,
+        "Quantity": 100,
+        "Manufacturer": "Biskfarm Pvt. Ltd"
+    },
+    "1135": {
+        "Name": "Butter Bake",
+        "Weight (grams)": "150",
+        "Price": 55,
+        "Quantity": 75,
+        "Manufacturer": "Anmol Biscuits Pvt. Ltd"
+    }
+}

@@ -1,0 +1,226 @@
+{
+    "1501": {
+        "Name": "Happy Happy",
+        "Weight (grams)": 125,
+        "Price": 25,
+        "Quantity Sold": 50,
+        "Amount": 1250
+    },
+    "1502": {
+        "Name": "50-50 Sweet n Salty",
+        "Weight (grams)": 65,
+        "Price": 10,
+        "Quantity Sold": 50,
+        "Amount": 500
+    },
+    "1503": {
+        "Name": "Nice-Time",
+        "Weight (grams)": 90,
+        "Price": 20,
+        "Quantity Sold": 5,
+        "Amount": 100
+    },
+    "1504": {
+        "Name": "Happy Happy",
+        "Weight (grams)": 125,
+        "Price": 25,
+        "Quantity Sold": 25,
+        "Amount": 625
+    },
+    "1505": {
+        "Name": "Bourbon",
+        "Weight (grams)": 120,
+        "Price": 30,
+        "Quantity Sold": 80,
+        "Amount": 2400
+    },
+    "1506": {
+        "Name": "20-20 Cookies",
+        "Weight (grams)": 30,
+        "Price": 5,
+        "Quantity Sold": 40,
+        "Amount": 200
+    },
+    "1507": {
+        "Name": "Countlines",
+        "Weight (grams)": "95",
+        "Price": 20,
+        "Quantity Sold": 50,
+        "Amount": 1000
+    },
+    "1508": {
+        "Name": "Monaco",
+        "Weight (grams)": 40,
+        "Price": 10,
+        "Quantity Sold": 100,
+        "Amount": 1000
+    },
+    "1509": {
+        "Name": "Nutrichoice Digestive",
+        "Weight (grams)": 75,
+        "Price": 20,
+        "Quantity Sold": 10,
+        "Amount": 200
+    },
+    "1510": {
+        "Name": "MilkBikis",
+        "Weight (grams)": 55,
+        "Price": 10,
+        "Quantity Sold": 5,
+        "Amount": 50
+    },
+    "1511": {
+        "Name": "50-50 Sweet n Salty",
+        "Weight (grams)": 65,
+        "Price": 10,
+        "Quantity Sold": 50,
+        "Amount": 500
+    },
+    "1512": {
+        "Name": "Dark Fantasy",
+        "Weight (grams)": 80,
+        "Price": 30,
+        "Quantity Sold": 5,
+        "Amount": 150
+    },
+    "1513": {
+        "Name": "Vita Marie Gold",
+        "Weight (grams)": 240,
+        "Price": 40,
+        "Quantity Sold": 20,
+        "Amount": 800
+    },
+    "1514": {
+        "Name": "Marie Gold",
+        "Weight (grams)": 200,
+        "Price": 30,
+        "Quantity Sold": 50,
+        "Amount": 1500
+    },
+    "1515": {
+        "Name": "Happy Happy",
+        "Weight (grams)": 125,
+        "Price": 25,
+        "Quantity Sold": 50,
+        "Amount": 1250
+    },
+    "1516": {
+        "Name": "Nice-Time",
+        "Weight (grams)": 90,
+        "Price": 20,
+        "Quantity Sold": 20,
+        "Amount": 400
+    },
+    "1517": {
+        "Name": "Happy Happy",
+        "Weight (grams)": 125,
+        "Price": 25,
+        "Quantity Sold": 50,
+        "Amount": 1250
+    },
+    "1518": {
+        "Name": "Butter Bake",
+        "Weight (grams)": "150",
+        "Price": 55,
+        "Quantity Sold": 25,
+        "Amount": 1375
+    },
+    "1519": {
+        "Name": "Cheese Cracker",
+        "Weight (grams)": 55,
+        "Price": 15,
+        "Quantity Sold": 25,
+        "Amount": 375
+    },
+    "1520": {
+        "Name": "Little Hearts",
+        "Weight (grams)": 35,
+        "Price": 15,
+        "Quantity Sold": 35,
+        "Amount": 525
+    },
+    "1521": {
+        "Name": "Nice-Time",
+        "Weight (grams)": 90,
+        "Price": 20,
+        "Quantity Sold": 20,
+        "Amount": 400
+    },
+    "1522": {
+        "Name": "Nice-Time",
+        "Weight (grams)": 90,
+        "Price": 20,
+        "Quantity Sold": 10,
+        "Amount": 200
+    },
+    "1523": {
+        "Name": "Hide&Seek Milano",
+        "Weight (grams)": 70,
+        "Price": 40,
+        "Quantity Sold": 60,
+        "Amount": 2400
+    },
+    "1524": {
+        "Name": "Coconut Cookies",
+        "Weight (grams)": 65,
+        "Price": 10,
+        "Quantity Sold": 40,
+        "Amount": 400
+    },
+    "1525": {
+        "Name": "Classic cream",
+        "Weight (grams)": 40,
+        "Price": 5,
+        "Quantity Sold": 95,
+        "Amount": 475
+    },
+    "1526": {
+        "Name": "Milk Shakti",
+        "Weight (grams)": 55,
+        "Price": 10,
+        "Quantity Sold": 40,
+        "Amount": 400
+    },
+    "1527": {
+        "Name": "Bounce Cream",
+        "Weight (grams)": 45,
+        "Price": 5,
+        "Quantity Sold": 100,
+        "Amount": 500
+    },
+    "1528": {
+        "Name": "Treat",
+        "Weight (grams)": 45,
+        "Price": 10,
+        "Quantity Sold": 60,
+        "Amount": 600
+    },
+    "1529": {
+        "Name": "Top",
+        "Weight (grams)": 55,
+        "Price": 10,
+        "Quantity Sold": 50,
+        "Amount": 500
+    },
+    "1530": {
+        "Name": "CNC",
+        "Weight (grams)": 60,
+        "Price": 10,
+        "Quantity Sold": 100,
+        "Amount": 1000
+    },
+    "1531": {
+        "Name": "Googly",
+        "Weight (grams)": 160,
+        "Price": 95,
+        "Quantity Sold": 100,
+        "Amount": 9500
+    },
+    "1532": {
+        "Name": "Cheese Cracker",
+        "Weight (grams)": 55,
+        "Price": 15,
+        "Quantity Sold": 30,
+        "Amount": 450
+    }
+}
